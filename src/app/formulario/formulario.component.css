@@ -1,0 +1,70 @@
+#form {
+  display: inline-block;
+  width: 40%;
+  height: 100%;
+  vertical-align: top;
+  box-sizing: border-box;
+  padding-top: 15px;
+  background-color: #f5f5f5;
+}
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+
+h1 {
+  margin-top: 10px;
+  text-align: center;
+  color: black;
+  font-weight: 200;
+}
+
+
+
+
+.login{
+  width: 90%;
+  margin-left:5%;
+
+}
+
+.radio {
+  display:flex;
+  margin-top: 5px;
+}
+
+#boton- {
+  margin-top: 10px;
+  margin-left:5%;
+  width: 90%;
+}
+
+#contList {
+  display: inline-block;
+  width: 60%;
+  height: 100%;
+  vertical-align: top;
+  box-sizing: border-box;
+  padding-top: 15px;
+  background-color: #f5f5f5;
+  text-align: center;
+  color: black;
+}
+
+.dato {
+  padding-right: 5px;
+  color: black;
+}
+
+.dato:after {
+  content : "|";
+  margin-left: 5px;
+  color: black;
+}
+
+.boton {
+  margin-right: 5px;
+  text-align:end;
+}
